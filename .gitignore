@@ -1,0 +1,6 @@
+data
+.idea
+result
+*.zip
+wandb
+*.pyc
