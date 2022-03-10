@@ -15,7 +15,7 @@ import cv2
 from utils.data_loading import BasicDataset, CarvanaDataset
 from utils.dice_score import dice_loss
 from evaluate import evaluate
-from unet.unet_model import UNet
+from unet_model import UNet
 
 
 # dir_checkpoint = Path('./checkpoints/')
